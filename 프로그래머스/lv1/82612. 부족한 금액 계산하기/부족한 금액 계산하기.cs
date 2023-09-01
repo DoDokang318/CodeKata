@@ -2,7 +2,7 @@ using System;
 
 class Solution
 {
-    public long solution(int price,long money, int count)
+    public long solution(int price,int money, int count)
     {
         long Total =0;
        long answer = 0;
